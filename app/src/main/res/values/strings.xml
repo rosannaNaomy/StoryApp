@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="character_name">Enter Your Character\'s Name:</string>
+    <string name="button_nameCharacternext">Next</string>
+    <string name="start_button">Start</string>
+    <string name="main_intro_text">Play Mad Libs!</string>
+    <string name="story_p1">One day, the  \</string>
+    <string name="story_p2">\ was traveling through the countryside eating a \</string>
+    <string name="story_p3">\ when suddenly, a \</string>
+    <string name="story_p4">\ came out to attack the local farmers! \</string>
+    <string name="story_p5">\ jumped to the rescue to \</string>
+    <string name="story_p6">\ with the \</string>
+    <string name="story_p7">\'s favorite weapon, the \</string>
+    <string name="story_p8">! Once the \</string>
+    <string name="story_p9">\ was defeated, it exploded into a giant pile of \</string>
+    <string name="story_p10">! The End!</string>
+    <string name="profession_name_hint">Profession Name</string>
+    <string name="profession_input">Enter Your Character\'s Profession:</string>
+    <string name="button_next">next</string>
+    <string name="fav_thing_input">Enter Your Character\'s Favorite Thing to Do:</string>
+    <string name="fav_thing_hint">Enter Favorite Thing</string>
+    <string name="favorite_tool_input">Enter Your Character\'s Favorite Tool:</string>
+    <string name="fav_tool_hint">Enter Favorite Tool</string>
+    <string name="villain_hint">Enter Villain</string>
+    <string name="villain_input">Enter a Type of Villain:</string>
+    <string name="someDeli_hint">Something Delicious</string>
+    <string name="someDeli_input">Enter Something Delicious:</string>
+    <string name="reward_hint">Type Of Reward</string>
+    <string name="reward_input">Enter a Type of Reward:</string>
+</resources>
